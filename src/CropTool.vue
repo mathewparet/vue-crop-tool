@@ -71,7 +71,7 @@
                 }
             }
             , imageReady() {
-                this.$emit('input',this.cropper.getCroppedCanvas().toDataURL('image/jpeg'))
+                this.$emit('input',this.cropper.getCroppedCanvas().toDataURL('image/png'))
             }
         }
     }
