@@ -1,7 +1,7 @@
 {
   "name": "@mathewparet/vue-crop-tool",
   "description": "A tool to easily crop input image. Works like a normal input.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Mathew Paret <mathewparet@gmail.com>",
   "license": "MIT",
   "main": "src/CropTool.vue",
